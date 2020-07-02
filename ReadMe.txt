@@ -1,1 +1,1 @@
-This is still an unifinished project for sign numbers recognitions. Keep in touch I'll update the code soon.
+Please make sure that you always change the Threshold according to the need.
